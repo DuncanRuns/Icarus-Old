@@ -7,10 +7,9 @@
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "DuncanRuns",
+  "authorList": ["DuncanRuns"],
   "logoFile": "",
   "screenshots": [],
-  "dependencies": []
+  "dependencies": ["backlytra"]
 }
 ]
