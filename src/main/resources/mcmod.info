@@ -1,0 +1,16 @@
+[
+{
+  "modid": "icarusold",
+  "name": "Icarus Old",
+  "description": "Icarus but backported to very old.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "DuncanRuns",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
